@@ -1,0 +1,13 @@
+C:\Users\Guilherme\source\repos\AtvPolimorfismo\AtvPolimorfismo\bin\Debug\netcoreapp3.1\AtvPolimorfismo.exe
+C:\Users\Guilherme\source\repos\AtvPolimorfismo\AtvPolimorfismo\bin\Debug\netcoreapp3.1\AtvPolimorfismo.deps.json
+C:\Users\Guilherme\source\repos\AtvPolimorfismo\AtvPolimorfismo\bin\Debug\netcoreapp3.1\AtvPolimorfismo.runtimeconfig.json
+C:\Users\Guilherme\source\repos\AtvPolimorfismo\AtvPolimorfismo\bin\Debug\netcoreapp3.1\AtvPolimorfismo.runtimeconfig.dev.json
+C:\Users\Guilherme\source\repos\AtvPolimorfismo\AtvPolimorfismo\bin\Debug\netcoreapp3.1\AtvPolimorfismo.dll
+C:\Users\Guilherme\source\repos\AtvPolimorfismo\AtvPolimorfismo\bin\Debug\netcoreapp3.1\AtvPolimorfismo.pdb
+C:\Users\Guilherme\source\repos\AtvPolimorfismo\AtvPolimorfismo\obj\Debug\netcoreapp3.1\AtvPolimorfismo.csprojAssemblyReference.cache
+C:\Users\Guilherme\source\repos\AtvPolimorfismo\AtvPolimorfismo\obj\Debug\netcoreapp3.1\AtvPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\AtvPolimorfismo\AtvPolimorfismo\obj\Debug\netcoreapp3.1\AtvPolimorfismo.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\AtvPolimorfismo\AtvPolimorfismo\obj\Debug\netcoreapp3.1\AtvPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\AtvPolimorfismo\AtvPolimorfismo\obj\Debug\netcoreapp3.1\AtvPolimorfismo.dll
+C:\Users\Guilherme\source\repos\AtvPolimorfismo\AtvPolimorfismo\obj\Debug\netcoreapp3.1\AtvPolimorfismo.pdb
+C:\Users\Guilherme\source\repos\AtvPolimorfismo\AtvPolimorfismo\obj\Debug\netcoreapp3.1\AtvPolimorfismo.genruntimeconfig.cache
